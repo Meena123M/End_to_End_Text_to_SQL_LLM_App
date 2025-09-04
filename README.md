@@ -32,8 +32,6 @@ This project demonstrates how to build an **End-to-End Text-to-SQL Application**
 ## 🚀 Deployment  
 Run the app locally:  
 
-```bash
-streamlit run app.py
 
 ## 🤝 Contributors  
 
