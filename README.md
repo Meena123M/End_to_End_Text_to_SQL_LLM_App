@@ -37,8 +37,7 @@
 
 ## 🚀 Deployment  
 Run the app locally:  
-```bash
-streamlit run app.py
+
 
 
 ## 🤝 Contributors  
